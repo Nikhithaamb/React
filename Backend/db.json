@@ -1,0 +1,50 @@
+{
+  "employess": [
+    {
+      "empName": "",
+      "id": 1
+    },
+    {
+      "empName": "Nikhithaaa",
+      "empSalary": "5000",
+      "empCompany": "TCS",
+      "id": 2
+    },
+    {
+      "empName": "Nikhitha",
+      "empSalary": "50000",
+      "empCompany": "TCS",
+      "id": 3
+    },
+    {
+      "empName": "",
+      "empSalary": "",
+      "empCompany": "",
+      "id": 4
+    },
+    {
+      "empName": "abc",
+      "empSalary": "56789",
+      "empCompany": "infy",
+      "id": 5
+    },
+    {
+      "empName": "gjbkn",
+      "empSalary": "9876",
+      "empCompany": "bv",
+      "id": 6
+    },
+    {
+      "empName": "chan",
+      "empSalary": "1234",
+      "empCompany": "xjcu",
+      "id": 7
+    },
+    {
+      "empName": "velava",
+      "empSalary": "3456",
+      "empCompany": "qaz",
+      "id": 8
+    }
+  ]
+}
